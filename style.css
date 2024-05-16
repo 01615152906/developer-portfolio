@@ -10,3 +10,31 @@ h1{
 .love{
     color: orange;
 }
+section{
+    display: flex;
+}
+.half-width {
+    width: 50%;
+    padding-right: 5%;
+    padding-left: 5%;
+    font-size: 1em;
+    text-align: center;
+    
+}
+.half-width img{
+    width: 600px;
+    border-radius:50px ;
+    height: 590px;
+    padding-top: 5px;
+}
+.link-button{
+   text-decoration: none; 
+
+
+   background-image:linear-gradient(orange, tomato);
+   padding: 10px 40px;
+   border-radius: 10px;
+   color: white;
+   font-weight: 700;
+}
+
