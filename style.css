@@ -11,10 +11,11 @@ h1{
     h1{
         font-size: 40px;
     }
-}
+
 
 .love{
     color: orange;
+    font-size: 50px;
 }
  .flexible-container{
     display: flex;
